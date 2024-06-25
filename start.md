@@ -1,5 +1,7 @@
 [Bakery](bakery/bakery.md)
- 
+
+[Python](python/python.md)
+
 # Руководство по Markdown
 
 [go back](../README.md#markdown)
