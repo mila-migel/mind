@@ -4,4 +4,3 @@ message = "Hello, World!"
 # Выводим значение переменной message на экран
 #Print this is:function
 print(message)
-
