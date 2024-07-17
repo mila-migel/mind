@@ -13,3 +13,6 @@ print(double_quote_string)
 new_line_string = "Это первая строка\nЭто вторая строка"
 print(new_line_string)
 
+#!/bin/bash
+
+
