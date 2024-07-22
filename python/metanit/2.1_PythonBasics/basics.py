@@ -15,4 +15,16 @@ print(new_line_string)
 
 #!/bin/bash
 
+message = lambda: print("hello")
+ 
+message()   # hello
 
+
+square = lambda n: n * n
+ 
+print(square(4))    # 16
+print(square(5))    # 19
+
+#quare = lambda n: n * n 
+
+print(square(3))   
