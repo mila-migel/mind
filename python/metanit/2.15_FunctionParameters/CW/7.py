@@ -4,7 +4,7 @@ numbers = [3, 7, 2, 8, 10, 4]
 max_number = numbers[0]
 
 for number in numbers:
-    numbers < max_number
-    max_number = numbers 
-    
-    print("Наибольшее число в списке", max_number )
+    if number > max_number:
+        max_number = number
+
+print("The largest number in the list is", max_number)
